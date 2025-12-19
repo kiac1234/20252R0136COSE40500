@@ -9,3 +9,4 @@
 - Networking: TCP vs UDP
 - Database: normalization reduces redundancy
 - Git: commit is a snapshot, push uploads to remote
+- Memory: stack vs heap allocation
