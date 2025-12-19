@@ -5,3 +5,4 @@
 - Hash table: average O(1), collisions handled by chaining
 - Sorting: quicksort average O(n log n), worst O(n^2)
 - Graph: BFS uses queue, DFS uses stack/recursion
+- OS: process vs thread
