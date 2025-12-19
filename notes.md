@@ -7,3 +7,4 @@
 - Graph: BFS uses queue, DFS uses stack/recursion
 - OS: process vs thread
 - Networking: TCP vs UDP
+- Database: normalization reduces redundancy
